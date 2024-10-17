@@ -52,5 +52,11 @@ namespace PruebaGithub
             MessageBox.Show("Prueba 9...");
             //Codigo antoguo
         }
+        void FuncionDiez()
+        {
+            MessageBox.Show("Creando 10 desde gitathub...");
+            MessageBox.Show("Prueba 10...");
+            //Codigo antoguo
+        }
     }
 }
