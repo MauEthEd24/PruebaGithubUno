@@ -25,5 +25,9 @@ namespace PruebaGithub
         {
             MessageBox.Show("Subiendo a github...");
         }
+        void LimpiarTres()
+        {
+            MessageBox.Show("Subiendo a giaathub...");
+        }
     }
 }
