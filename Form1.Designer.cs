@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             btnGrabar = new Button();
+            btnCambiosReq1 = new Button();
             SuspendLayout();
             // 
             // btnGrabar
@@ -41,11 +42,22 @@
             btnGrabar.UseVisualStyleBackColor = true;
             btnGrabar.Click += btnGrabar_Click;
             // 
+            // btnCambiosReq1
+            // 
+            btnCambiosReq1.Location = new Point(201, 247);
+            btnCambiosReq1.Name = "btnCambiosReq1";
+            btnCambiosReq1.Size = new Size(151, 36);
+            btnCambiosReq1.TabIndex = 1;
+            btnCambiosReq1.Text = "CambiosReq1";
+            btnCambiosReq1.UseVisualStyleBackColor = true;
+            btnCambiosReq1.Click += btnCambiosReq1_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(542, 375);
+            Controls.Add(btnCambiosReq1);
             Controls.Add(btnGrabar);
             Name = "Form1";
             Text = "Prueba GITHUB";
@@ -56,5 +68,6 @@
         #endregion
 
         private Button btnGrabar;
+        private Button btnCambiosReq1;
     }
 }

@@ -16,5 +16,10 @@ namespace PruebaGithub
         {
             MessageBox.Show("Subiendo a github...");
         }
+
+        private void btnCambiosReq1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Subiendo a github...");
+        }
     }
 }
