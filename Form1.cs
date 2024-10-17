@@ -21,5 +21,9 @@ namespace PruebaGithub
         {
             MessageBox.Show("Subiendo a github...");
         }
+        void LimpiarDos()
+        {
+            MessageBox.Show("Subiendo a github...");
+        }
     }
 }
