@@ -37,5 +37,9 @@ namespace PruebaGithub
         {
             MessageBox.Show("Subiendo 5 a giaathub...");
         }
+        void FuincionSeis()
+        {
+            MessageBox.Show("Creando 6 desde giaathub...");
+        }
     }
 }
