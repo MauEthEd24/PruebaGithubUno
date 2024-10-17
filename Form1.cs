@@ -53,5 +53,10 @@ namespace PruebaGithub
             MessageBox.Show("Prueba 10...");
             //Codigo antoguo
         }
+
+        void Fuincion9()
+        {
+            
+        }
     }
 }
