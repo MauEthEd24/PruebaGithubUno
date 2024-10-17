@@ -41,5 +41,10 @@ namespace PruebaGithub
         {
             MessageBox.Show("Creando 6 desde giaathub...");
         }
+        void FuincionSeis()
+        {
+            MessageBox.Show("Creando 8 desde gitathub...");
+            //Codigo antoguo
+        }
     }
 }
