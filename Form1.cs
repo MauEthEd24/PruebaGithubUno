@@ -21,5 +21,10 @@ namespace PruebaGithub
         {
             MessageBox.Show("Subiendo a github...");
         }
+
+        void Funcion1()
+        {
+            //cambio commit dos
+        }
     }
 }
