@@ -37,11 +37,11 @@ namespace PruebaGithub
         {
             MessageBox.Show("Subiendo 5 a giaathub...");
         }
-        void FuincionSeis()
+        void FuncionSeis()
         {
             MessageBox.Show("Creando 6 desde giaathub...");
         }
-        void FuincionSeis()
+        void FuncionOcho()
         {
             MessageBox.Show("Creando 8 desde gitathub...");
             //Codigo antoguo
